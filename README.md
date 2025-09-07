@@ -9,7 +9,7 @@
 
 😽 Outside of coding, I enjoy listening to music, reading, cooking good food, and sipping cups of matcha 🫶🍵. 
 
----
+# 
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -36,7 +36,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
----
+# 
 
 ### 🫶 Connect with me
 - 🐙 GitHub: [https://github.com/DannhiNT](https://github.com/DannhiNT)
