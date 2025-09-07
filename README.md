@@ -2,7 +2,7 @@
 
 ✨ A passionate **Computer Science and Statistics student**. I love exploring new technologies every day and leveraging them to solve real-world problems. 
 
-<hr style="border:0.5px solid #ccc;" />
+<hr style="border:0.25px solid #ccc;" />
 
 ### 💖 About me
 - 📖 I'm pursuing my Bachelor degree at Luther College.
@@ -11,7 +11,7 @@
 
 😽 Outside of coding, I enjoy listening to music, reading, cooking good food, and sipping cups of matcha 🫶🍵. 
 
-<hr style="border:0.5px solid #ccc;" />
+<hr style="border:0.25px solid #ccc;" />
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -38,7 +38,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-<hr style="border:0.5px solid #ccc;" />
+<hr style="border:0.25px solid #ccc;" />
 
 ### 🫶 Connect with me
 - 🐙 GitHub: [https://github.com/DannhiNT](https://github.com/DannhiNT)
