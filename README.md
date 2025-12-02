@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Justine Nhi
+# Hi there 👋, I'm Nhi 
 
 A passionate **Computer Science and Statistics student**. I love exploring new technologies every day and leveraging them to solve real-world problems. 
 
@@ -9,7 +9,6 @@ Outside of coding, I enjoy listening to music, reading, cooking good food, and s
 
 
 ## Languages and Tools
-<p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -33,5 +32,4 @@ Outside of coding, I enjoy listening to music, reading, cooking good food, and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
 
