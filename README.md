@@ -4,14 +4,13 @@
 
 ### 💖 About me
 - 📖 I'm pursuing my Bachelor degree at Luther College.
-- 🌱 Currently learning Full-stack development.
+- 🌱 Currently learning **Full-stack development**
 - 📫 Reach out to me at [nguytr01@luther.edu](mailto:nguytr01@luther.edu)
 
 😽 Outside of coding, I enjoy listening to music, reading, cooking good food, and sipping cups of matcha 🫶🍵. 
 
-# 
 
-### 🛠️ Languages and Tools
+## Languages and Tools
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -38,8 +37,3 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-# 
-
-### 🫶 Connect with me
-- 🐙 GitHub: [https://github.com/DannhiNT](https://github.com/DannhiNT)
-- 💼 LinkedIn: [https://www.linkedin.com/in/dannhint/](https://www.linkedin.com/in/dannhint/)
