@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nhi 
 
-A passionate **Computer Science and Statistics student**. I love exploring new technologies every day and leveraging them to solve real-world problems. 
+I'm a A passionate **CS and Math student**. I love exploring new technologies every day and leveraging them to solve real-world problems. 
 
 - 🌱 I am currently learning **Full-stack development**
 - 📫 Reach out to me at [nguytr01@luther.edu](mailto:nguytr01@luther.edu)
