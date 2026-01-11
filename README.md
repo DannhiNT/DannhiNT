@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nhi 
+# Hi there 👋, I'm Justine Nhi 
 
 I'm a passionate **CS and Math student**. I love exploring new technologies every day and leveraging them to solve real-world problems. 
 
